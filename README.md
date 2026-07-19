@@ -171,11 +171,7 @@ The models were trained and evaluated on historical agricultural data containing
 
  👥 Team Members
  
- 1. Nidhrabingi Kavitha - Team lead
- 2. Anusuri Asha Deepa - Member
- 3.  Keerthana Adam - Member
- 4.  Siva Nagendra Egaia - Member
- 5.  Birada Jaswanth - Member
+Yannam Chittikumari
 
 
 
